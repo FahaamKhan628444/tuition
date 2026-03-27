@@ -36,7 +36,7 @@ export default function Footer() {
 
             {/* Location */}
             <a
-              href="https://www.google.com/maps?q=Your+Location"
+              href="https://maps.app.goo.gl/qPY6MbXVA7KVyvcL6"
               target="_blank"
               className="block hover:text-white transition"
             >
