@@ -11,7 +11,7 @@ export default function MarqueeBar() {
         animate={{ x: "-100%" }}
         transition={{
           repeat: Infinity,
-          duration: 60,
+          duration: 40,
           ease: "linear",
         }}
         className="whitespace-nowrap py-2 text-sm font-large"
