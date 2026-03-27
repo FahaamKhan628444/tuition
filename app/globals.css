@@ -5,6 +5,10 @@
   --foreground: #171717;
 }
 
+html, body {
+  background-color: black;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
