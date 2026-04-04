@@ -16,7 +16,7 @@ export default function MarqueeBar() {
         }}
         className="whitespace-nowrap py-2 text-sm font-large"
       >
-        🚀 Admission Open | 📚 New Batch Starting from 1st April, 2026 | 📞 Contact us at: +91- 9815478630 |
+        🚀 Admission Open | 📚 Batch already started from 1st April, 2026 | 📞 Contact us at: +91- 9815478630 |
       </motion.div>
 
     </div>
